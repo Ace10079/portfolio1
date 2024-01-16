@@ -1,0 +1,23 @@
+body{
+    background-color: black;
+    font-family: 'DotGothic16', sans-serif;
+    font-size: 1.5rem;
+}
+.navbar-toggler-icon {
+    background-color: white;
+}
+.text{
+    color: white;
+}
+.size{
+    font-size: calc(1.375rem + 1.5vw);
+}
+a {
+    color: white; 
+    text-decoration: none; 
+}
+
+
+a:hover {
+    color: blue; 
+}
